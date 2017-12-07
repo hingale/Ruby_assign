@@ -1,3 +1,5 @@
 puts "Arati Vidhate"
 
-puts "Synechron"
+puts "Synechron Tecnolgies Pune"
+
+
