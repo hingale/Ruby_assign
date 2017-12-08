@@ -24,3 +24,11 @@ simple and secure
 Ruby is developed in 1995
 
 
+ruby is 
+class SampleCode
+def run
+#...
+end
+end
+
+
