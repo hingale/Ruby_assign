@@ -14,9 +14,6 @@ a=b
 b=sum
 end
 
-
-	
-
 =begin
 
 value = 10
@@ -30,9 +27,6 @@ b = a + b
 end
 
 =end
-
-
-
 
 =begin
 
